@@ -1,6 +1,6 @@
 # 3_AIinference
 
-# BERT inference 
+# Annotation using trained multi-task BERT model 
 This folder contains a script that allows it's users to use the trained BERT model to infer NE, I&F and Relation taggings
 
 ## Direct Download link
